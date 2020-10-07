@@ -1,5 +1,5 @@
-def mario
-  phrase = "It's-a me, Mario!"
+def link 
+  phrase = "It's dangerous to go alone take this"
   puts phrase
 end
 
